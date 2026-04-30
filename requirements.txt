@@ -1,0 +1,18 @@
+# ── From agentic_rag (patchy631/ai-engineering-hub) ──────────────────────────
+crewai
+crewai-tools
+chonkie[semantic]
+markitdown
+qdrant-client
+fastembed
+
+# ── CLARA additions ───────────────────────────────────────────────────────────
+numpy
+python-dotenv
+streamlit>=1.35
+requests
+
+# ── Optional (for paper eval harness) ────────────────────────────────────────
+# ragas
+# datasets
+# trl           # for PPO memory policy (Month 2)
